@@ -31,8 +31,9 @@
 
 ## Licencia
 📄 [Licencia MIT](https://github.com/fcor/aframe-workshop/blob/master/LICENSE)
+
 ---
 *Cualquier consulta, critica, PR o sugerencia es totalmente bienvenida.
 Gracias por acompañarme en este Workshop!*
 
-**<> with ❤️ by [@fabiojcortes](https://twitter.com/fabiojcortes)**
+**<> with  ❤️  by [@fabiojcortes](https://twitter.com/fabiojcortes)**
