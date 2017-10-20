@@ -27,7 +27,7 @@
 * Conocimiento básico de Javascript
 
 ## Ejercicios
-1. 📚 [Introduccion a A-Frame]
+1. 📚 [Introduccion a A-Frame](https://github.com/fcor/aframe-workshop/blob/master/ex/1.md)
 
 ## Licencia
 📄 [Licencia MIT](https://github.com/fcor/aframe-workshop/blob/master/LICENSE)
