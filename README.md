@@ -28,6 +28,7 @@
 
 ## Ejercicios
 1. 📚 [Introduccion a A-Frame](https://github.com/fcor/aframe-workshop/blob/master/ex/1.md)
+2. :dragon_face: [Primitivas](https://github.com/fcor/aframe-workshop/blob/master/ex/2.md)
 
 ## Licencia
 📄 [Licencia MIT](https://github.com/fcor/aframe-workshop/blob/master/LICENSE)
