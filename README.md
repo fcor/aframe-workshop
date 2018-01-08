@@ -29,6 +29,8 @@
 ## Ejercicios
 1. 📚 [Introduccion a A-Frame](https://github.com/fcor/aframe-workshop/blob/master/ex/1.md)
 2. :dragon_face: [Primitivas](https://github.com/fcor/aframe-workshop/blob/master/ex/2.md)
+3. :clapper: [La escena](https://github.com/fcor/aframe-workshop/blob/master/ex/3.md)
+4. :movie_camera: [Cámara y perspectiva](https://github.com/fcor/aframe-workshop/blob/master/ex/4.md)
 
 ## Licencia
 📄 [Licencia MIT](https://github.com/fcor/aframe-workshop/blob/master/LICENSE)
