@@ -31,6 +31,7 @@
 2. :dragon_face: [Primitivas](https://github.com/fcor/aframe-workshop/blob/master/ex/2.md)
 3. :clapper: [La escena](https://github.com/fcor/aframe-workshop/blob/master/ex/3.md)
 4. :movie_camera: [Cámara y perspectiva](https://github.com/fcor/aframe-workshop/blob/master/ex/4.md)
+4. :collision: [Animación](https://github.com/fcor/aframe-workshop/blob/master/ex/5.md)
 
 ## Licencia
 📄 [Licencia MIT](https://github.com/fcor/aframe-workshop/blob/master/LICENSE)
