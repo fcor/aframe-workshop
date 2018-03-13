@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta charset="utf-8">
+    <title>VR Images</title>
+  </head>
+  <body>
+    <script src="https://aframe.io/releases/0.7.1/aframe.min.js"></script>
+    <a-scene>
+      <a-assets>
+        <img id="estadio" src="https://ucarecdn.com/5cca53aa-bd76-41ff-a64c-de1680b85ee6/">
+        <img id="logo" src="https://ucarecdn.com/eebbb659-04ff-40cd-a7be-99a26538704d/">
+      </a-assets>
+      <a-image src="#logo" position="0 3 -4" width="1" height="2"></a-image>
+      <a-box position="-2 3 -4" height="1" width="1" depth=".5" rotation="0 45 0" color="tomato"></a-box>
+      <a-box position="2 3 -4" height="1" width="1" depth=".5" rotation="0 -45 0" color="tomato"></a-box>
+      <a-sky src="#estadio"></a-sky>
+    </a-scene>
+  </body>
+</html>
