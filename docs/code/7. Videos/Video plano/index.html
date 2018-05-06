@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta charset="utf-8">
+  <title>VR Video</title>
+</head>
+  <body>
+    <script src="https://aframe.io/releases/0.8.0/aframe.min.js"></script>
+    <a-scene>
+      <a-assets>
+        <video id="video1" autoplay loop="true" src="assets/1.mp4"></video>
+        <video id="video2" autoplay loop="true" src="assets/2.mp4"></video>
+        <img id="night" src="assets/night.jpg">
+      </a-assets>
+      <a-video src="#video1" width="3.57" height="2" position="-2.5 1.5 -4" rotation="0 30 0"></a-video>
+      <a-video src="#video2" width="3.57" height="2" position="2.5 1.5 -4" rotation="0 -30 0"></a-video>
+      <a-sky src="#night"></a-sky>
+    </a-scene>
+  </body>
+</html>
