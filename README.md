@@ -23,8 +23,8 @@
 
 ## Requisitos
 * Cualquier editor de texto: [Atom](https://atom.io/), [Sublime Text](https://www.sublimetext.com/), [VS Code](https://code.visualstudio.com/) etc.
-* Conocimiento básico de HTML y CSS
-* Conocimiento básico de Javascript
+* Conocimiento básico de HTML.
+* Conocimiento básico de Javascript.
 
 ## Ejercicios
 1. 📚 [Introduccion a A-Frame](https://github.com/fcor/aframe-workshop/blob/master/ex/1.md)
@@ -33,6 +33,7 @@
 4. :movie_camera: [Cámara y perspectiva](https://github.com/fcor/aframe-workshop/blob/master/ex/4.md)
 4. :collision: [Animación](https://github.com/fcor/aframe-workshop/blob/master/ex/5.md)
 6. :camera: [Imágenes](https://github.com/fcor/aframe-workshop/blob/master/ex/6.md)
+7. :video_camera: [Video](https://github.com/fcor/aframe-workshop/blob/master/ex/6.md)
 
 ## Licencia
 📄 [Licencia MIT](https://github.com/fcor/aframe-workshop/blob/master/LICENSE)
