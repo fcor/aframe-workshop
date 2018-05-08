@@ -33,7 +33,7 @@
 4. :movie_camera: [Cámara y perspectiva](https://github.com/fcor/aframe-workshop/blob/master/ex/4.md)
 4. :collision: [Animación](https://github.com/fcor/aframe-workshop/blob/master/ex/5.md)
 6. :camera: [Imágenes](https://github.com/fcor/aframe-workshop/blob/master/ex/6.md)
-7. :video_camera: [Video](https://github.com/fcor/aframe-workshop/blob/master/ex/6.md)
+7. :video_camera: [Video](https://github.com/fcor/aframe-workshop/blob/master/ex/7.md)
 
 ## Licencia
 📄 [Licencia MIT](https://github.com/fcor/aframe-workshop/blob/master/LICENSE)
