@@ -34,6 +34,7 @@
 4. :collision: [Animación](https://github.com/fcor/aframe-workshop/blob/master/ex/5.md)
 6. :camera: [Imágenes](https://github.com/fcor/aframe-workshop/blob/master/ex/6.md)
 7. :video_camera: [Video](https://github.com/fcor/aframe-workshop/blob/master/ex/7.md)
+8. :computer: [Modelos 3D](https://github.com/fcor/aframe-workshop/blob/master/ex/8.md)
 
 ## Licencia
 📄 [Licencia MIT](https://github.com/fcor/aframe-workshop/blob/master/LICENSE)

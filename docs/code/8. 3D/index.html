@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta charset="utf-8">
+  <title>Modelos 3D</title>
+</head>
+  <body>
+    <script src="https://aframe.io/releases/0.8.2/aframe.min.js"></script>
+    <a-scene>
+      <a-assets>
+        <img id="suelo" src="assets/grass.jpg">
+        <a-asset-item src="assets/bosque.dae" id="bosque"></a-asset-item>
+        <a-asset-item id="bulbasaur-obj" src="assets/bulbasaur-pokemon-go.obj"></a-asset-item>
+        <a-asset-item id="bulbasaur-mtl" src="assets/bulbasaur-pokemon-go.mtl"></a-asset-item>
+      </a-assets>
+
+      <a-plane src="#suelo" width="30" height="30" repeat="10 10" rotation="-90 0 0"></a-plane>
+      <a-entity obj-model="obj: #bulbasaur-obj; mtl: #bulbasaur-mtl" position="0 0 -5" scale="0.15 0.15 0.15"></a-entity>
+      <a-entity collada-model="#bosque"></a-entity>
+      <a-sky color="skyblue"></a-sky>
+    </a-scene>
+  </body>
+</html>
