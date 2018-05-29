@@ -7,7 +7,7 @@
 </p>
 
 ## Materiales
-* 📽 Slides
+* 📽 [Slides](https://fcor.github.io/aframe-slides/#/)
 * 😎 Proyecto WebVR
 * 📚 Git Book
 * 🤓 [Documentación oficial](https://aframe.io/docs/0.7.0/introduction/)
